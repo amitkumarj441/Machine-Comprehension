@@ -1,7 +1,7 @@
 # Machine-Comprehension
 AI for Education - Global Hackweek @IIT-D
 
-### Implementation of Machine Comprehension based on //ttic.uchicago.edu/~dmcallester/ACL2015.pdf 
+### Implementation of Machine Comprehension based on ttic.uchicago.edu/~dmcallester/ACL2015.pdf 
 
 # How to use and Run
 
